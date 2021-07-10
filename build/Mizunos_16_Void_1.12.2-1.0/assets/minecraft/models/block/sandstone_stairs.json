@@ -1,0 +1,9 @@
+{
+    "parent": "block/stairs_b",
+    "textures": {
+        "bottom": "blocks/sandstone_bottom",
+        "top": "blocks/sandstone_top",
+        "side": "blocks/sandstone_stair",
+        "side_0": "blocks/sandstone_stair_1"
+    }
+}

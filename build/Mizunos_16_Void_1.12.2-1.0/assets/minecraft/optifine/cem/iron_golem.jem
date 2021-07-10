@@ -1,0 +1,25 @@
+{
+   "models": [
+      {
+         "part": "head",
+         "model": "iron_golem_head.jpm",
+         "translate": [0,31,2]
+      },
+      {
+         "part": "body",
+         "attach": true,
+         "model": "iron_golem_bodyparts.jpm",
+         "translate": [0,31,0]
+      },
+      {
+         "part": "left_arm",
+         "model": "iron_golem_arm_l.jpm",
+         "translate": [0,31,0]
+      },
+      {
+         "part": "right_arm",
+         "model": "iron_golem_arm_r.jpm",
+         "translate": [0,31,0]
+      }
+   ]
+}

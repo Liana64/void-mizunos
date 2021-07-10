@@ -1,0 +1,17 @@
+{
+   "models": [
+      {
+         "part": "head",
+         "attach": true,
+         "model": "zombie_pigman_nose.jpm",
+         "translate": [0,-4,-0.5],
+         "scale": 1.1
+      },
+      {
+         "part": "head",
+         "attach": true,
+         "model": "zombie_pigman_ear.jpm",
+         "translate": [0,-12,0]
+      }
+   ]
+}

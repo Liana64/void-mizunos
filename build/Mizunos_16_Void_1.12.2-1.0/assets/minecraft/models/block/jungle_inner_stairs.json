@@ -1,0 +1,9 @@
+{
+    "parent": "block/inner_stairs_b",
+    "textures": {
+        "bottom": "blocks/planks_jungle",
+        "top": "blocks/planks_jungle",
+        "side": "blocks/planks_jungle_stair",
+        "side_0": "blocks/planks_jungle_stair_0"
+    }
+}

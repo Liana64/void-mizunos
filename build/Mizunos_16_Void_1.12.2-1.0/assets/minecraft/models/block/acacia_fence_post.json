@@ -1,0 +1,19 @@
+{
+    "textures": {
+        "particle": "blocks/fence/fence_acacia"
+    },
+    "elements": [
+        {
+            "from": [ 5, 0, 5 ],
+            "to": [ 11, 16, 11 ],
+            "faces": {
+                "up":    { "uv": [ 0, 10, 6, 16 ], "texture": "#particle", "cullface": "up" },
+                "down":  { "uv": [ 0, 10, 6, 16 ], "texture": "#particle", "cullface": "down" },
+                "west":  { "texture": "#particle" },
+                "east":  { "texture": "#particle" },
+                "north": { "texture": "#particle" },
+                "south": { "texture": "#particle" }
+            }
+        }
+    ]
+}

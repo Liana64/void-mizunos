@@ -1,0 +1,9 @@
+{
+   "models": [
+      {
+         "part": "head",
+         "model": "mooshroom_head.jpm",
+         "translate": [0,20,8]
+      }
+   ]
+}

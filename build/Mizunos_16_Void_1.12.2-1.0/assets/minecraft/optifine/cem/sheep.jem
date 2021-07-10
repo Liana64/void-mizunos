@@ -1,0 +1,9 @@
+{
+   "models": [
+      {
+         "part": "head",
+         "model": "sheep_head.jpm",
+         "translate": [0,-20,8]
+      }
+   ]
+}

@@ -1,0 +1,16 @@
+{
+  "texture": "textures/entity/chicken.png",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "Bill",
+      "translate": [0,0,0],
+      "boxes": [
+        {
+          "coordinates": [-1,11,-8,2,2,2],
+          "textureOffset": [40,10]
+        }
+      ]
+    }
+  ]
+}
