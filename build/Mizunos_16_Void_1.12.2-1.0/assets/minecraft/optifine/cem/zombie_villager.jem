@@ -1,9 +1,0 @@
-{
-   "models": [
-      {
-         "part": "head",
-         "model": "zombie_villager_head.jpm",
-         "translate": [0,-34,0]
-      }
-   ]
-}

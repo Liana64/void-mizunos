@@ -1,9 +1,0 @@
-{
-   "models": [
-      {
-         "part": "head",
-         "model": "cow_head.jpm",
-         "translate": [0,20,8]
-      }
-   ]
-}

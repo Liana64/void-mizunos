@@ -1,9 +1,0 @@
-{
-    "parent": "block/cube_box",
-    "textures": {
-        "particle": "blocks/jukebox_side",
-        "bottom": "blocks/noteblock",
-        "top": "blocks/jukebox_top",
-        "side": "blocks/jukebox_side"
-    }
-}
